@@ -34,3 +34,21 @@ yarn-error.*
 
 # typescript
 *.tsbuildinfo
+
+app.json
+babel.config.js
+expo-env.d.ts
+index.js
+package-lock.json
+package.json
+tsconfig.json
+
+# IDE
+.idea/
+.vscode/
+
+# その他
+*.log
+.env
+.env.*
+!.env.example
